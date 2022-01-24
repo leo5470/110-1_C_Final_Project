@@ -1,19 +1,13 @@
-# Welcome to 110-1_C_Final_Project 👋
-[![Twitter: iamleocheng](https://img.shields.io/twitter/follow/iamleocheng.svg?style=social)](https://twitter.com/iamleocheng)
+# 110-1 程式設計 期末專題
 
 > Tic Tac Toe Minigame written in C
 
-## Author
+## 如何使用
 
-👤 **Leo Cheng**
-
-* Twitter: [@iamleocheng](https://twitter.com/iamleocheng)
-* Github: [@leo5470](https://github.com/leo5470)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+先填入先手與後手玩家的代表符號(原本是要每次進行完操作就列印現在狀況，但後來沒空寫)  
+之後就可以開始進行遊玩  
+每次輸入以空格隔開x及y值
 
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+HackerRank資料夾裡也附上完成題目截圖供參
